@@ -6,7 +6,7 @@ Este repositório é dedicado exclusivamente à distribuição das versões comp
 Você pode encontrar a versão mais recente na aba [Releases](https://github.com/mkmarcinho-cloud/servir-releases/releases/latest).
 
 ## 📄 O que tem aqui?
-- **app-release.apk**: O instalador oficial para Android.
+- **servir.apk**: O instalador oficial para Android.
 - **version.json**: Arquivo de manifesto usado pelo aplicativo para verificar atualizações automaticamente.
 
 ---
